@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kcr-83
+- I'm .NET Developer with 15+ years experience.
 - 👀 I’m interested in .NET, Angular, TypeScript.
 - 🌱 I’m currently learning Angular/TypeScript.
 
